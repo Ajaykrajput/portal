@@ -1,3 +1,7 @@
+# AJAY React JS E-portal for issues.
+
+![AJAY React JS E-portal for issues.](portal-screen.jpg?raw=true "AJAY React JS E-portal for issues. ")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
